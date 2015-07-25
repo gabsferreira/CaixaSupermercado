@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaSupermercado", "CaixaSupermercado\CaixaSupermercado.csproj", "{C635B097-5430-4FC9-A9FC-28E61F4CECE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C635B097-5430-4FC9-A9FC-28E61F4CECE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C635B097-5430-4FC9-A9FC-28E61F4CECE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C635B097-5430-4FC9-A9FC-28E61F4CECE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C635B097-5430-4FC9-A9FC-28E61F4CECE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

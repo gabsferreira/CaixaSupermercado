@@ -1,0 +1,10 @@
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\bin\Debug\CaixaSupermercado.exe.config
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\bin\Debug\CaixaSupermercado.exe
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\bin\Debug\CaixaSupermercado.pdb
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.exe
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.pdb
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.FormularioNovoProduto.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\CaixaSupermercado\CaixaSupermercado\obj\Debug\CaixaSupermercado.FormularioPrincipal.resources
